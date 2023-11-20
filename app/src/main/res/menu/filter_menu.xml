@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/price_filter"
+        android:title="Price" />
+    <item
+        android:id="@+id/change_filter"
+        android:title="Change in 24 hour" />
+    <!-- Add more menu items as needed -->
+</menu>

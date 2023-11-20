@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PluginState">
+    <option name="lastVisitedDir" value="C:\Users\LENOVO\Downloads" />
+    <option name="returnType" value="Call&lt;T&gt;" />
+    <option name="returnTypeClassesDirectory" value="$PROJECT_DIR$" />
+    <option name="returnTypeClassInfoList" value="[{&quot;className&quot;:&quot;my-plugin-state&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;Response&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;Status&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;JsonMember1&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;progress_bar&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;Model&quot;},{&quot;className&quot;:&quot;BTC&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;ETH&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;USD&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;Quote&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;DataItem&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;Data_Response&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;Adapter&quot;},{&quot;className&quot;:&quot;MyListData&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;MyListAdapter&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;CoinInfoResponse&quot;,&quot;classExtension&quot;:&quot;java&quot;},{&quot;className&quot;:&quot;menu&quot;},{&quot;className&quot;:&quot;filter_menu&quot;,&quot;classExtension&quot;:&quot;xml&quot;},{&quot;className&quot;:&quot;FilterSelectionListener&quot;,&quot;classExtension&quot;:&quot;java&quot;}]" />
+  </component>
+</project>
